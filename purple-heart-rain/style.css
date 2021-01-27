@@ -19,6 +19,7 @@ body {
     font-size: 2rem;
     transform: translateY(0);
     animation: fall 3s linear forwards;
+    color: purple ;
 }
 
 @keyframes fall {
